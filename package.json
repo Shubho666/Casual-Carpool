@@ -1,0 +1,14 @@
+{
+  "name": "casual_carpool",
+  "version": "1.0.0",
+  "description": "carpool app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bekar Baccha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
